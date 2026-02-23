@@ -109,7 +109,7 @@ These queries demonstrate:
 
 > *(Add screenshots of query results below)*
 
-![Query Output 1](add-image-link-here)  
+![Query Output 1](Screenshot_2026-02-23_072653.png)  
 ![Query Output 2](add-image-link-here)  
 ![Query Output 3](add-image-link-here)
 
