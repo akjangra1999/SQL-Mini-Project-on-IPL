@@ -52,7 +52,6 @@ This project demonstrates strong understanding of:
 ### 🏆 Leaderboard System
 - Bidder ranking
 - Top 3 leaders display
-- Total points calculation
 - Win percentage calculation
 
 ---
@@ -101,7 +100,7 @@ These queries demonstrate:
 
 
 
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](ER_Diagram)
 
 ---
 
@@ -124,15 +123,6 @@ Through this project, I gained hands-on experience in:
 - Implementing business rules in SQL
 - Handling composite keys
 - Building a structured and scalable schema
-
----
-
-## 🚀 How to Run This Project
-
-1. Open MySQL Workbench
-2. Run the provided SQL script to create tables
-3. Insert the sample data
-4. Execute the queries to test outputs
 
 ---
 
