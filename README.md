@@ -99,19 +99,19 @@ These queries demonstrate:
 
 ## 🖼️ ER Diagram
 
-> *(Add ER Diagram Image Below)*
 
-![ER Diagram](add-your-er-diagram-image-link-here)
+
+![ER Diagram](ER_Diagram.png)
 
 ---
 
 ## 🖼️ Sample Query Outputs
 
-> *(Add screenshots of query results below)*
+
 
 ![Query Output 1](Screenshot_2026-02-23_072653.png)  
-![Query Output 2](add-image-link-here)  
-![Query Output 3](add-image-link-here)
+![Query Output 2](Screenshot_2026-02-23_072754.png)  
+
 
 ---
 
